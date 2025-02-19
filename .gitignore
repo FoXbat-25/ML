@@ -7,7 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-data
+catboost_info/
+data/
 .Python
 build/
 develop-eggs/
